@@ -1,4 +1,4 @@
-#Automated Trash Barrel with Garbage Level Monitoring
+# Automated Trash Barrel with Garbage Level Monitoring
 
 
 (Developed during COVID Pandemic)
