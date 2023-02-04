@@ -1,3 +1,6 @@
+#Automated Trash Barrel with Garbage Level Monitoring
+
+
 (Developed during COVID Pandemic)
 
 Introduction: A simple system called Automated Trash Barrel with garbage level monitoring system, which consist of sensor technology and other more.
